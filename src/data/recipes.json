@@ -1,5 +1,37 @@
 [
-
+  {
+    "id": "1",
+    "isSaved": false,
+    "date": "2024-02-28",
+    "catgories": ["slow", "nonveg", "main", "spice"],
+    "likes": "12",
+    "name": "Christmas pie",
+    "url": "/Christmas Pie.jpg",
+    "description": "Combine a few key Christmas flavours here to make a pie that both children and adults will adore",
+    "author": "Mary Cadogan",
+    "ingredients": [
+      "2 tablespoon olive oil",
+      "knob butter",
+      "1 onion, finely chopped",
+      "500 gram sausagemeat or skinned sausages",
+      "grated zest of 1 lemon",
+      "100 gram fresh white breadcrumbs",
+      "85 gram ready-to-eat dried apricots, chopped",
+      "50 gram chestnut, canned or vacuum-packed, chopped",
+      "2 teaspoon chopped fresh or 1 teaspoon dried thyme",
+      "100 gram cranberries, fresh or frozen",
+      "500 gram boneless, skinless chicken breasts",
+      "500 gram pack ready-made shortcrust pastry",
+      "beaten egg, to glaze"
+    ],
+    "method": [
+      "Heat oven to 190C/fan 170C/gas 5. Heat 1  tablespoon oil and the butter in a frying pan, then add the onion and fry for 5 mins until softened. Cool slightly. Tip the sausagemeat, lemon zest, breadcrumbs, apricots, chestnuts and thyme into a bowl. Add the onion and cranberries, and mix everything together with your hands, adding plenty of pepper and a little salt.",
+      "Cut each chicken breast into three fillets lengthwise and season all over with salt and pepper. Heat the remaining oil in the frying pan, and fry the chicken fillets quickly until browned, about 6-8 mins.",
+      "Roll out two-thirds of the pastry to line a 20-23cm springform or deep loose-based tart tin. Press in half the sausage mix and spread to level. Then add the chicken pieces in one layer and cover with the rest of the sausage. Press down lightly.",
+      "Roll out the remaining pastry. Brush the edges of the pastry with beaten egg and cover with the pastry lid. Pinch the edges to seal, then trim. Brush the top of the pie with egg, then roll out the trimmings to make holly leaf shapes and berries. Decorate the pie and brush again with egg.",
+      "Set the tin on a baking sheet and bake for 50-60 mins, then cool in the tin for 15 mins. Remove and leave to cool completely. Serve with a winter salad and pickles."
+    ]
+  },
   {
     "id": "2",
     "isSaved": false,
@@ -74,6 +106,42 @@
       "Heat oven to 150C/130C fan/gas 2. Scoop the cake mix into 12 deep muffin cases (an ice-cream scoop works well), then level tops with a spoon dipped in hot water. Bake for 35-45 mins until golden and just firm to touch. A skewer inserted should come out clean. Cool on a wire rack.",
       "Unravel the marzipan onto a work surface lightly dusted with icing sugar. Stamp out 12 rounds, 6cm across. Brush the cake tops with apricot jam, top with a marzipan round and press down lightly.",
       "Make up the fondant icing to a spreading consistency, then swirl on top of each cupcake. Decorate with sugared almonds and snowflakes, then leave to set. Will keep in a tin for 3 weeks."
+    ]
+  },
+  {
+    "id": "4",
+    "isSaved": false,
+    "date": "2024-02-20",
+    "catgories": ["quick", "nonveg", "dessert", "sweet"],
+    "likes": "150",
+    "name": "Christmas buns",
+    "url": "/Christmas Buns.jpg",
+    "description": "Paul Hollywood's fruit rolls can be made ahead then heated up before adding a glossy glaze and citrus icing",
+    "author": "Paul Hollywood",
+    "ingredients": [
+      "500 gram strong white flour, plus extra for dusting",
+      "7g sachet fast-action dried yeast",
+      "300 milliliters milk",
+      "40 gram unsalted butter, softened at room temperature",
+      "1 egg",
+      "vegetable oil, for greasing",
+      "25 gram unsalted butter, melted",
+      "75 gram soft brown sugar",
+      "2  teaspoon ground cinnamon",
+      "100 gram dried cranberries",
+      "100 gram chopped dried apricot",
+      "50 gram caster sugar",
+      "zest 1 lemon",
+      "200 gram icing sugar"
+    ],
+    "method": [
+      "Put the flour and 1  teaspoon salt into a large bowl. Make a well in the centre and add the yeast. Meanwhile, warm the milk and butter in a pan until the butter melts and the mixture is lukewarm. Add the milk mixture and egg to the flour mixture and stir until the contents come together as a soft dough (add extra flour if you need to).",
+      "Tip the dough onto a well-floured surface. Knead for 5 mins, adding more flour if necessary, until the dough is smooth, elastic and no longer sticky.",
+      "Lightly oil a bowl with the vegetable oil. Place the dough in the bowl and turn until covered in oil. Cover the bowl with cling film and set aside in a warm place for 1 hr or until doubled in size. Lightly grease a baking sheet and set aside.",
+      "For the filling, knock the dough back to its original size and turn out onto a lightly floured surface. Roll it into a 1cm-thick rectangle. Brush all over with the melted butter, then sprinkle over the sugar, cinnamon and fruit.",
+      "Roll up the dough into a tight cylinder, cut into 9 x 4cm slices and position on the prepared baking sheet, leaving a little space between. Cover with a tea towel and set aside to rise for 30 mins.",
+      "Heat oven to 190C/170C fan/gas 5. Bake the buns for 20-25 mins or until risen and golden brown. Meanwhile, melt the glaze sugar with 4  tablespoon water until syrupy.",
+      "Remove from oven and glaze. Set aside to cool on a wire rack. Once cool, mix the zest and icing sugar with about 2  tablespoon water to drizzle over the buns. Serve."
     ]
   },
   {

@@ -463,6 +463,7 @@ p {
     margin-right: auto;
     font-size: 3rem !important;
     line-height: 3.6rem !important;
+    margin-top: 0 !important;
   }
 }
 
